@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 * 🎓 Studying **Intelligent Computing Engineering**
-* 💻 Instructor in a **Competitive Programming Club**
+* 💻 Instructor in a **CPC-Gallos** (Competitive Programming Club)
 * 🏆 Passionate about **Algorithms, Data Structures, and Problem Solving**
 * 📚 Constantly learning and improving through programming contests
 * 🎯 Currently focused on **Competitive Programming** and **ICPC-style challenges**
